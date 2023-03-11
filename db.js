@@ -6,7 +6,7 @@ const pool = new Pool({
     password: 'rootroot',
     host: "localhost",
     port: "5432",
-    database: "film_db"
+    database: "server_kino"
 })
 
 export default pool
